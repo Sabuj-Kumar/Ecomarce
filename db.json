@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "name": "Sabuj Kumar Tarofdar",
+      "email": "sabuj.job21@gmail.com",
+      "password": "SaBuj@139",
+      "id": 1
+    },
+    {
+      "name": "Niber Kumar Tarofar",
+      "email": "niber@gmail.com",
+      "password": "Niber@139",
+      "id": 2
+    },
+    {
+      "name": "Sondip",
+      "email": "sondip@gmail.com",
+      "password": "sondip@139",
+      "id": 3
+    },
+    {
+      "name": "Hasn Mahmud",
+      "email": "hasan@gmail.com",
+      "password": "hasan@139",
+      "id": 4
+    }
+  ]
+}
