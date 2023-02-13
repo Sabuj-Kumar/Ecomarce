@@ -1,6 +1,21 @@
 .sing-up{
-    color: blueviolet;
     text-align: center;
+    color: blueviolet;
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+.login{
+    text-align: center;
+    color: blueviolet;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.signUp-toggle{
+    margin-top: 20px;
+    text-align: left;
+    color: blueviolet;
+    font-size: 14px;
+    cursor: pointer;
 }
