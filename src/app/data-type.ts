@@ -5,3 +5,16 @@ export interface SignUp{
     email:EmailValidator,
     password:string,
 }
+
+export interface SignIn{
+    email:EmailValidator,
+    password:string,
+}
+export interface Product{
+    name:string,
+    price:DoubleRange,
+    category:string,
+    color:string,
+    description:string,
+    image:string
+}

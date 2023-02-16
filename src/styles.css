@@ -25,3 +25,9 @@ body{
     border: 1px solid blueviolet;
     cursor: pointer;
 }
+.error-p{
+    color: red;
+}
+.massege-p{
+    color: green;
+}
